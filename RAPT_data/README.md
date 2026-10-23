@@ -29,8 +29,4 @@
 
 Feature units, product versions, spatial aggregation, and processing provenance must be documented against the final manuscript Methods and the cited source products before public deposition. The public source products themselves are not redistributed here.
 
-## Provenance and access review required before release
 
-The input features were assembled from U.S. county yield statistics, USDA Cropland Data Layer masks, MODIS products, and ERA5-Land-derived climate variables, as described in the manuscript. Before public release, confirm redistribution/attribution requirements for each source and add the appropriate dataset citations and a compatible licence. This staging copy is not itself licensed for reuse yet.
-
-The processed inputs may support reproduction of the U.S. model comparisons, attribution analyses, and ablation analyses. This file set does not include the separate China target-domain data or all figure/table source data. Those should be added as separately documented files only after their provenance and redistribution terms are reviewed.
