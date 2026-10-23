@@ -27,6 +27,5 @@
 | `rel_days` | `[21]` | POS-relative time coordinate in days |
 | `*_feature_names` | variable length | Feature order corresponding to each predictor array |
 
-Feature units, product versions, spatial aggregation, and processing provenance must be documented against the final manuscript Methods and the cited source products before public deposition. The public source products themselves are not redistributed here.
 
 
